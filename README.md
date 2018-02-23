@@ -1,3 +1,2 @@
-# Simple-Interest-Example
-In this tutorial, basic Graphical User Interface (GUI) programming using Windows Forms, Menus and Graphics Objects is covered. Usage of various Namespaces such as System.Drawing, System.ComponentModel, System.
-Windows.Forms etc and Windows event handlers are illustrated in this tutorial.
+# charp-programming-tips-and-sample-projects
+In the repository, C# Sample Programs and codes will be discussed. Samples and discussions topics may include C#.NET Controls, ASP.NET User Controls, MVC Controls, Image Processing|OpenCV , Parallel Processing. .
