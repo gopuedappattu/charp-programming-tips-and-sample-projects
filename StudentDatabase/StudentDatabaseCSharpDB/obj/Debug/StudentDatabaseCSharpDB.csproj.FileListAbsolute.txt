@@ -1,0 +1,11 @@
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\bin\Debug\StudentDatabaseCSharpDB.exe.config
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\bin\Debug\StudentDatabaseCSharpDB.exe
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\bin\Debug\StudentDatabaseCSharpDB.pdb
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\obj\Debug\StudentDatabaseCSharpDB.csprojResolveAssemblyReference.cache
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\obj\Debug\StudentDatabaseCSharpDB.FormAddStudent.resources
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\obj\Debug\StudentDatabaseCSharpDB.FormDeleteStudent.resources
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\obj\Debug\StudentDatabaseCSharpDB.Properties.Resources.resources
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\obj\Debug\StudentDatabaseCSharpDB.StudentDatabase.resources
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\obj\Debug\StudentDatabaseCSharpDB.csproj.GenerateResource.Cache
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\obj\Debug\StudentDatabaseCSharpDB.exe
+F:\Projects\StudentDatabaseCSharpDB\StudentDatabaseCSharpDB\obj\Debug\StudentDatabaseCSharpDB.pdb
