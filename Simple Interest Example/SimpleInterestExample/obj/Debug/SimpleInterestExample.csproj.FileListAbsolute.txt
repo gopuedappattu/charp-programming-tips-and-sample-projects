@@ -1,0 +1,9 @@
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\bin\Debug\SimpleInterestExample.exe.config
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\bin\Debug\SimpleInterestExample.exe
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\bin\Debug\SimpleInterestExample.pdb
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\obj\Debug\SimpleInterestExample.csprojResolveAssemblyReference.cache
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\obj\Debug\SimpleInterestExample.FormSimpleInterest.resources
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\obj\Debug\SimpleInterestExample.Properties.Resources.resources
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\obj\Debug\SimpleInterestExample.csproj.GenerateResource.Cache
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\obj\Debug\SimpleInterestExample.exe
+G:\TUTORIALS\SimpleInterestExample\SimpleInterestExample\obj\Debug\SimpleInterestExample.pdb
